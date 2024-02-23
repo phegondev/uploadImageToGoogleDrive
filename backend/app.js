@@ -11,6 +11,9 @@ const upload = multer();
 app.use(express.json())
 app.use(cors())
 
+
+//const KEYFILEPATH = new URL("./cred.json", import.meta.url).pathname; // when using es 6 module. i.e import rather than require
+
 const KEYFILEPATH = path.join(__dirname, "cred.json");
 const SCOPES = ["https://www.googleapis.com/auth/drive"]
 const auth = new google.auth.GoogleAuth({
