@@ -1,0 +1,9 @@
+<div class="app">
+  <div *ngIf="resultMessage" [class]="resultMessage.type">
+  {{ resultMessage.result.status == 200 ? 'Success: ' + resultMessage.result.message : 'Error: ' + resultMessage.result.message }}
+  </div>
+  <h1>Image Uploader</h1>
+  <input type="file" (change)="handleFileChange($event)" />
+  <button (click)="handleUpload()" [disabled]="!selectedFile">Upload Image</button>
+  </div>
+  
