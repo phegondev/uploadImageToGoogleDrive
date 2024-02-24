@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "cogent-mark-415113",
+  "private_key_id": "590e6af2fe761927e654f760b8a432151bda8375",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC7/SZ4QCOLGSvp\nmXsvcpV5/RgWyn9o122HK2Jl1KileqnBDW+Ned/ZZg0HwAnDQlbiOvT40G0Agy6h\nNnUPFRlp980di1ggMQawaMW29Kl/L5cBN6hPrNBrZ2qDfmw4UhZf7clVd6skl7mT\n2MJM1dlmyTh+iyHFBKqjfKONOJZ2iHgB2K7hfvwR+RrjytbEbb1qmOWW6uOxGYb5\nxAT5Ilboxh5qj5CEs0iD9WGfljOIC6KP1/grZL1pxLmUx4Rs+yXp6+2r7Vf6aWCW\n9SgkIgYnp44gj01Z9TPAXToSWNADfW0uhoq1pqJT/gJ34054iJaVKTsjczmx3+k+\n3tExE6uzAgMBAAECggEAKsHHUC52ZxrQjA8mn4IWUWqpYfWoyPXGqanKdZLK0Oh3\nV7twleMUcOPvLsYU8l5SWJ5EPZtaT3WG05AJS+bmot2Dv6aD4r6D4PfTkGtRaeYv\nGE3KcGTD+snIxiOpBZ5WDHePBWt0d5wyz1fLyaISEnjN6qpGggMvtIOSx3oJbufz\nUhtp4fhsR9SlfobYKxcJlH/YCnNsBNbYR2NCyAOPSYHh2xSMxQ+6rWn12ijnx2bK\nM3WEi4Es06lYG1SdHC+Tz+dfhlAUtM7+CMzxDw5JLglUB/L0rCctzP5EnK4q2jMU\n62105+HZpncgn08SbNAvZlrEHrRzPN3gfcO1ZiirgQKBgQDk0kX3fkl9DIq9Gmbz\ndbDIjRnaM7py25EPhnt5uUbP4YyMxtYbkb1X5zuyqdFUAvcDmy5mqeb22jMZJNC5\nQKPcp5YvsX9rn6Not7rMo+ebfr8+flbxJEuQqXeYNzjLwjr7oBf7y++BPkQjkdh+\nUogA2tJpCnQywg2k2Dr2KardkwKBgQDSUUpydeOsbPnm4tYwJX/FKbnFctyE46Kw\nkWo8rB5QJ7ufoyIwMJubi6Sj7pyMh0TjM7swa06TMgAYgigKvRvCllTKR8oHVlj3\nOREtBv0rR/ePiNHRqakNzrq81nC1n+zleV6mLaTUWD7z6ZXcWBs8V/ZCOHMgVQcJ\novyyBN3NYQKBgHRX3a9LDL6CJACmbfYXvv0ZkS1647AGp6kHLbzkUXbdLYNejfqS\njX0mWxoqcf6PS10QB/W3KXIV26lLKL0oeqh0pU42p5znHETgNiBariZHuaFix33w\ngGNbZy2D1mLzrN3HtqoWNP631BlpzHPeLryQhi9WW2J7fEh2kPQcl331AoGAOwAF\nA4Eg4pEbtfKypYUPh+8Bp2tmg30cea4BgI3EXzYWQ11PTPeF36fYAwkAL8gOwjIT\n9CxWOaLQNg/lTcXpULg9hxWGjnJhuNDwiZIpWYfx4fk+6zNOMoppBmqd6cW4flOD\nAtlRISS0XFaN7OdmlJIUilUtrsdLlx97BjGpS2ECgYEAu4yryWgGIa/li2MZ+PkS\nLH2mWY5/bEIPHFr/ep/SmWW7XHNbnqDib8VkGqrXc89LwEyhpgHpq8BxfccVuhzl\nzsqEizU2+WNfQL18pRN5+HYyaAEOFAX1apoPPxROyFptelahgKiwRqziHKT0Xehs\noAqClWkK9btoK8pCh7y1iiY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "driveupload@cogent-mark-415113.iam.gserviceaccount.com",
+  "client_id": "103792772049757670246",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/driveupload%40cogent-mark-415113.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
