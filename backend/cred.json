@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "chromatic-timer-415222",
+  "private_key_id": "15a06b0d5998c7420ac10ed43eab3f667fdeb51c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQC2ErprMyJGcHpw\n6mvd81od+I44OdEImNxws5EuSW8F+jNdMnSOCBxucwOAYF5wX1CuESsGLfE+d5KM\nUthXEBxync6pIyPr5enJgCOjSMFZa22EWjMWP+mEMfjfjmbdxOVWpPr2GCfKrYRS\npbG54iwwgShGlOnHYHadt6sv9EtkDzLyp5SUum1rozYCtpOhH5ft1LAOq1WJgaW5\nr153l76uO+rwOSG+NmUFbDwPVlYQx67AFnVUDYFYk9g1YDk1apV7Qj+WMGVTfjXb\nyDcOAclYY8+/vNayFiEw8MbaT+vkJzqa9g2MwTNGgaOV7KffjuTL9YtrFEPxs2Xs\n6Qm58wuXAgMBAAECggEAVxqklo5y8lHzMbvkeN1oGniDyYBXcY53v28YoJU/CRQG\nqKpvuldFCs35Odxgsc/XsD7EX4NxK1pXAMzNdPFfOrImYSJPmBZ4/w5PfllbLqVH\nUo84a4eN9tFVZ9Yffi8pLIdnDH7H4p2adVORsAT08QuJMiMhqGGMva1Vt25e9vHC\nX9Z+1wePqZJb9wp+oKPqhay0ZJamAz2P7aMzwD6MJBKW4z9T3Oo1cfmXnIyQtQ2R\nhqsz0OTRC1omLPKWheM2mkHMoPbeHcQZq3T+fnasbahZOH4mbYrLpVmihBBiH10w\n9DuZdkKm4k1vhQF1pR8jSjjlVkNlQPWJb/KWSt7XYQKBgQD0Ou1ySCmYs5yt6M/V\nUZBDvaNavEYCPKc3mAq6H4+0582N1WppeGpF7dJryIT0+Y+BMn0SbqmbUalOzBm9\nPjw8LtdDen5J7q10y+mQpqnmmK2pJ04FXcAjEc+RTbhpN1zPmwFDbpM0+b9w2weo\nX/XbVvbrzKbwe4hrQgVd+qD8EQKBgQC+2PfdW2HRoaDle2WbaX7031LmP/E+3z+i\nlRJpBVdTgkuv18dOFW1Bq3p6tqls5ol05+hB0Ykl7wxLiyd6QVJ7xp0DYp0W48Gc\nzfB7o66TSqzLaLaMc4ZUFRvezC6vfsUK8TjMjV7zNkcJlSOq/kGkhGq9tLY2J3l3\niELREwtVJwKBgQDdHx0sgzlmD/ijXE4PjTFYo7HqzNt12wRqyTWtHjY2TElHSRp3\nM5bEiXYiMAJw6iKLjvK+ZYMaJO1tck07kcVnl+E+LwF4XqidPqHRXZQmO8W/iN6S\n7TawicesfvmgCYf2TxjtvId7R0OVIjnksD0gwbP9+eSLhs0Uj0nctLZcgQKBgQCD\nxUcOvYPCvDhdel/jeGnCJVgVxlyJrpc/aHI3tQpgjHw5w2DHVyAC0aVViT1eBacu\n4tiIaWaqnGz+0+vEC8op0C6lIbeZEFSkMcUzeQaWiF7aa0hvnWxILfL6WDx7y6m9\nLmSrR4khoH5X7XOdIsSsFQmmRlnw9jx1/c00klOmzQKBgQCVMDogVDTvHcnTw/Od\n0VsEg45/fOYSmI3xAODx9exShXhkQayKHf67p1Cf6KtalSNYMEOwb26qBiAgieSs\nkq6oHqUastPSN/KDhZyULKFF/V20mzXaKO5OgjhhKvfMG0cwurTc+AEvBwt5WqTj\nY2xw9/aCkJP1n6vLWyZjWK2kyQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "googledriveupload@chromatic-timer-415222.iam.gserviceaccount.com",
+  "client_id": "112903234932254223896",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/googledriveupload%40chromatic-timer-415222.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
